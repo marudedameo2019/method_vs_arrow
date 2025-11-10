@@ -1,0 +1,24 @@
+{
+  "name": "method_vs_arrow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marudedameo2019/method_vs_arrow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marudedameo2019/method_vs_arrow/issues"
+  },
+  "homepage": "https://github.com/marudedameo2019/method_vs_arrow#readme",
+  "devDependencies": {
+    "tinybench": "^5.1.0",
+    "tsx": "^4.20.6"
+  }
+}
